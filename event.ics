@@ -1,14 +1,14 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 CALSCALE:GREGORIAN
-PRODID:-//YourBank//UtilityReminder//RU
+PRODID:-//Bank//Reminder//RU
 BEGIN:VEVENT
-UID:utility-payment-0705@yourbank.com
-DTSTAMP:20250626T080000Z
-DTSTART:20250705T070000Z
-DTEND:20250705T071000Z
-SUMMARY:Оплатите ЖКУ
-DESCRIPTION:Напоминаем — оплатите коммунальные услуги до 5 июля. Сделать это можно в приложении банка.
-LOCATION:Приложение банка
+UID:uid@bank.com
+DTSTAMP:20250723T080000Z
+DTSTART:20250725T070000Z
+DTEND:20250725T071000Z
+SUMMARY:Выбрать кэшбэк на следующий месяц в Альфе
+DESCRIPTION:
+LOCATION:http://alfa.me/o87j5b
 END:VEVENT
 END:VCALENDAR
